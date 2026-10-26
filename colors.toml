@@ -1,0 +1,36 @@
+# Palette: https://github.com/savq/melange-nvim
+# Normal/bright ANSI colors follow upstream's c/b palettes.
+mode = "dark"
+
+accent = "#EBC06D"
+selection = "#403A36"
+selection_background = "#403A36"
+selection_foreground = "#ECE1D7"
+muted = "#867462"
+
+background = "#292522"
+# Derived deeper surfaces; other colors come from Melange's palette.
+dark_background = "#231F1D"
+darker_background = "#1C1917"
+lighter_background = "#34302C"
+
+foreground = "#ECE1D7"
+dark_foreground = "#867462"
+light_foreground = "#C1A78E"
+bright_foreground = "#ECE1D7"
+
+red = "#BD8183"
+yellow = "#E49B5D"
+orange = "#E49B5D"
+green = "#78997A"
+cyan = "#7B9695"
+blue = "#7F91B2"
+magenta = "#B380B0"
+brown = "#867462"
+
+bright_red = "#D47766"
+bright_yellow = "#EBC06D"
+bright_green = "#85B695"
+bright_cyan = "#89B3B6"
+bright_blue = "#A3A9CE"
+bright_magenta = "#CF9BC2"
