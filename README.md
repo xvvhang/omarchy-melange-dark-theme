@@ -42,9 +42,7 @@ OMARCHY_THEME_SKIP_BACKGROUND=1 omarchy theme set melange-dark
 
 ## Neovim
 
-Omarchy generates application configs from `colors.toml`. The included `neovim.lua` selects the original Melange plugin with a dark background; Lazy downloads the plugin on first use.
-
-Recent Omarchy versions ignore Lua files in Git-installed themes for security, so the plugin configuration is not automatically installed. To use it, review `neovim.lua` and merge its plugin specifications into your own LazyVim configuration under `~/.config/nvim/lua/plugins/`, preserving existing customizations.
+Omarchy generates the Neovim configuration from `colors.toml`; no theme-specific Lua configuration or plugin installation is required.
 
 ## Attribution
 
